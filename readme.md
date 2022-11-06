@@ -22,7 +22,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/KellyBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=QUwzWC1HaXRodWIvS2VsbHlCb3QgbWFpbg"> <img src="https://img.shields.io/badge/Deploy%20To%20Bot-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=QUwzWC1HaXRodWIvS2VsbHlCb3QgbWFpbg"> <img src="https://img.shields.io/badge/Deploy%20To%20TG Bot-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 𝐵𝑜𝑡 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠 」─
