@@ -1,13 +1,10 @@
-<p align="center"><img src="https://telegra.ph/file/c0e014ff34f34d1056627.png">
-
-<h4 align="center">
-    A Simple Chat-Bot Written In Pyrogram Using Mongodb.
-    
 <h1 align="center">
     ─「 𝐾𝑒𝑙𝑙𝑦 𝐵𝑜𝑡 」─
 </h1>
-A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot.
 
+> A Simple Chat-Bot Written In Pyrogram Using Mongodb.
+
+<p align="center"><img src="https://github.com/AL3X-Github/Resources/blob/main/KellyBot/KellyBot2.jpeg">
 <h3 align="center">
     ─「 𝑃𝑟𝑒𝑟𝑒𝑞𝑢𝑖𝑠𝑖𝑡𝑒𝑠 」─
 </h3>
