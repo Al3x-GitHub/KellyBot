@@ -18,8 +18,9 @@
     ─「 𝐻𝑒𝑟𝑜𝑘𝑢 𝐷𝑒𝑝𝑙𝑜𝑦𝑚𝑒𝑛𝑡 」─
 </h3> 
 
-<h4>Click the button below to deploy Kelly Chat Bot on Heroku!</h4>    
-<a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/KellyBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+> Click the button below to deploy Kelly Chat Bot on Heroku!</h4>    
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/TG-FileShare-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 𝐵𝑜𝑡 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠 」─
