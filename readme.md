@@ -12,7 +12,7 @@
 - [Python3.9](https://www.python.org/downloads/release/python-390/)
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
-- [MongoDB URI](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
+- [MongoDB URI](https://cloud.mongodb.com)
 
 <h3 align="center">
     ─「 𝐻𝑒𝑟𝑜𝑘𝑢 𝐷𝑒𝑝𝑙𝑜𝑦𝑚𝑒𝑛𝑡 」─
