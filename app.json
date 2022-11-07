@@ -1,7 +1,7 @@
 {
     "name": "Kelly Chat Bot",
     "description": "A simple Chat-Bot written in Pyrogram using MongoDB",
-    "logo": "",
+    "logo": "https://te.legra.ph/file/22c032db587456770ee8f.jpg",
     "keywords": [
       "kelly",
       "mongodb",

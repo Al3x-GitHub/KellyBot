@@ -155,7 +155,8 @@ async def init():
 **Pyrogram Version :** {pyrover}
 
 **Served Users:** {served_users} 
-**Blocked Users:** {blocked}"""
+**Blocked Users:** {blocked}
+**Powered By @MaximXRobot"""
         await message.reply_text(text)
 
     @app.on_message(
