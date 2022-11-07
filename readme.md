@@ -25,6 +25,22 @@
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=QUwzWC1HaXRodWIvS2VsbHlCb3QgbWFpbg"> <img src="https://img.shields.io/badge/Deploy%20To%20TG Bot-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
+    ─「 VPS Deployment 」─
+</h3>
+
+```console
+ $ git clone https://github.com/AL3X-Github/KellyBot
+ $ cd KellyBot
+ $ pip3 install -r requirements.txt
+ $ mv sample.env .env
+```
+> Edit .env With Your Values And Then Start Bot With
+
+```console
+ $ python3 main.py
+```
+
+<h3 align="center">
     ─「 𝐵𝑜𝑡 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠 」─
 </h3>
 
