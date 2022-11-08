@@ -43,7 +43,7 @@ async def init():
             return await message.reply_text(
                 "MONGO_DB_URI var not defined. Please define it first"
             )
-        usage = "**Usage:**\n\n/mode [group | private]\n\n**Group**: All the incoming messages will be forwarded to Log group.\n\n**Private**: All the incoming messages will be forwarded to the Private Messages of SUDO_USERS"
+        usage = "**Usage:**\n\n/mode [group | private]\n\n**Group**: All the incoming messages will be forwarded to Log group.\n\n**Private**: All the incoming messages will be forwarded to the Private Messages of SUDO_USERS\n\n**Powered By:** @MaximXRobot"
         if len(message.command) != 2:
             return await message.reply_text(usage)
         state = message.text.split(None, 1)[1].strip()
@@ -149,14 +149,14 @@ async def init():
             )
         served_users = len(await mongo.get_served_users())
         blocked = await mongo.get_banned_count()
-        text = f""" **ChatBot Stats:**
+        text = f""" **Kelly Stats:**
         
 **Python Version :** {pyver.split()[0]}
 **Pyrogram Version :** {pyrover}
 
-**Served Users:** {served_users} 
-**Blocked Users:** {blocked}
-**Powered By @MaximXRobot"""
+**Served Users :** {served_users} 
+**Blocked Users :** {blocked}
+**Powered By :** @MaximXRobot"""
         await message.reply_text(text)
 
     @app.on_message(
@@ -297,7 +297,7 @@ async def init():
                     "Failed to send the message, User might have blocked the bot or something wrong happened. Please check logs"
                 )
 
-    print("[LOG] - Kelly Chat Bot Started")
+    print("[LOG] - Kelly Started")
     await idle()
 
 
