@@ -47,7 +47,7 @@
       "PRIVATE_START_MESSAGE": {
         "description": "A welcome message for your bot when someone starts it",
         "required": true,
-        "value": "Hello! Welcome to my Personal Assistant Bot, Powered By @MaximXRobot"
+        "value": "Hello! Welcome to my Personal Assistant Bot Powered By @MaximXRobot"
       },
       "SUDO_USER": {
         "description": "The user id(s) of user(s) whom you would like to add as a SUDO_USER, Multiple values shall be seperated with a space.",

@@ -100,3 +100,5 @@ else:
 
     async def add_served_user(user_id: int):
         return True
+
+
