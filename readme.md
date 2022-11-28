@@ -44,7 +44,8 @@
     ─「 𝐵𝑜𝑡 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠 」─
 </h3>
 
-- These commands are only for Sudo Users
+> These commands are only for Sudo Users
+
 ```
 /block - Block a user who is using bot.
 
